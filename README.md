@@ -1,2 +1,3 @@
 # tech
-This is a sample projet!
+This is a sample project!
+
